@@ -1,1 +1,0 @@
-{"02d57b645ecbedb8487015b9822f973f":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"e8c51c03723e1d35","status":"failed","statusDetails":"Timed out retrying after 10000ms: Expected to find element: `tbody tr:nth-child(1) td:nth-child(1)`, but never found it.","time":{"start":1770867926716,"stop":1770868004092,"duration":77376}}]}}

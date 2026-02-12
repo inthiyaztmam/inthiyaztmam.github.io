@@ -1,1 +1,0 @@
-{"02d57b645ecbedb8487015b9822f973f":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"d9d3762c98bc6295","status":"failed","statusDetails":"Expected to find a Cypress configuration property `isInteractive`, but didn't","time":{"start":1770799774005,"stop":1770799774270,"duration":265}}]}}
