@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-249405
+END=4031
+title=Transfers from Flexi Account Transfer Workflow - Flexi to Company with Threshold Approvals - Range 0 (example #1)
+[CHAPTER]
+TIMEBASE=1/1000
+START=104480
+END=257717
+title=Transfers from Flexi Account Transfer Workflow - Flexi to Company with Threshold Approvals - Range 1 (example #2)
+[CHAPTER]
+TIMEBASE=1/1000
+START=88669
+END=411264
+title=Transfers from Flexi Account Transfer Workflow - Flexi to Company with Threshold Approvals - Range 2 (example #3)
+[CHAPTER]
+TIMEBASE=1/1000
+START=334366
+END=734191
+title=Transfers from Flexi Account Transfer Workflow - Flexi to Company with Threshold Approvals - Range 3 (example #4)
