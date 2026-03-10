@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"414a01770ac3033bde3c2b8ff870a1b9","name":"Transfers from Flexi Account","statistic":{"failed":4,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":4}},{"uid":"086436b3ccafbb1470662fe29b5172ff","name":"Transfers from Company Account - Reverse to Flexi","statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1}}]}
